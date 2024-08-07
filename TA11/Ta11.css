@@ -1,0 +1,30 @@
+.impares{
+    background-color: lightcoral;
+    font-family: "Verdana", "DejaVu Sans", "sans-serif" ;
+}
+
+#segundaLinea{
+    color: blue;
+    font-size: 36px;
+
+}
+
+#terceraLinea{
+    font-size: 24px;
+}
+
+#cuartaLinea{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+/*
+•	¿Los elementos p impares comparten una clase? 
+Si comparten y en este caso se llama "impares"
+•	¿Los elementos div pares tienen IDs únicos? 
+Si, uno se llama "segundaLinea" y el otro "cuartaLinea"
+•	¿El elemento número 3 tiene múltiples clases?
+No, tiene una sola clase y aparete un id que le aplica el tamaño de la letra ya que es diferente a la de las otras lineas que estan dentro de la misma clase.
+*/
